@@ -1,2 +1,2 @@
-# -cmu007.github.io
+# cmu007.github.io
 MyRepo1
